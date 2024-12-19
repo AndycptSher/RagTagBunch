@@ -1,0 +1,10 @@
+0:0-6:0_sleep
+6:0-9:0_sleep or minecraft
+9:0-11:0_homework
+11:0-12:0_coding or homework
+12:0-16:50_class
+16:50-17:0_shower
+17:0-20:0_record jacob events and do some of them
+20:0-21:0_dinner
+21:0-23:0_if there is jacob events do it \nif not watch educational video or simple homework
+23:0-24:0_sleep
